@@ -99,8 +99,6 @@ A particular focus is on separating multiple sources when the number of observat
 * 🔀 Time-frequency clustering
 * 🔄 Optimal source recombination
 
-A key aspect of this research was reducing separation artifacts caused by overly restrictive assumptions of perfect time-frequency sparsity.
-
 ### Selected publications
 
 **Bella et al. (2026)**
