@@ -65,7 +65,7 @@ Research conducted within the **ESA Euclid mission** to improve the extraction o
 
 ### Key contribution
 
-Developed signal-processing methods that exploit the complementary information provided by multiple dispersion directions, PSF information, and photometric measurements to improve the decontamination and reconstruction of galaxy spectra.
+Developed signal-processing methods that exploit multiple dispersion directions, PSF information, and photometric measurements to improve the decontamination and reconstruction of galaxy spectra.
 
 ### Selected publication
 
@@ -109,6 +109,7 @@ A key aspect of this research was reducing separation artifacts caused by overly
 
 [DOI](https://doi.org/10.1016/j.csl.2026.101992)
 
+
 **Bella et al. (2023)**
 *Multi-Channel Bin-Wise Speech Separation Combining Time-Frequency Masking and Beamforming*
 **IEEE Access**, 11, 100632–100645
@@ -118,6 +119,15 @@ A key aspect of this research was reducing separation artifacts caused by overly
 
 ---
 
+## 🔗 Open Source Implementation
+
+📦 **MATLAB Implementation** of Convolutive BSS
+- Repository: [Convolutive-BSS-Speech-Separation](https://github.com/mbella821/Convolutive-BSS-Speech-Separation)
+- Paper: "Underdetermined Convolutive Blind Source Separation of Speech Signals Using Relaxed Time-Frequency Sparsity"
+- Code + Sample Data + Documentation
+
+  
+---
 # 🔬 Core Research Areas
 
 ### Signal Processing
