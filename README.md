@@ -102,7 +102,7 @@ A particular focus is on separating multiple sources when the number of observat
 ### Selected publications
 
 **Bella et al. (2026)**
-*Underdetermined Convolutive Blind Source Separation of Speech Signals Using Relaxed Time-Frequency Sparsity*
+*Underdetermined Convolutive Blind Source Separation of Speech Signals Using Relaxed Time–Frequency Sparsity and RTF‑Based Recombination*
 **Computer Speech & Language**, 101, 101992
 
 [DOI](https://doi.org/10.1016/j.csl.2026.101992)
@@ -121,7 +121,7 @@ A particular focus is on separating multiple sources when the number of observat
 
 📦 **MATLAB Implementation** of Convolutive BSS
 - Repository: [Convolutive-BSS-Speech-Separation](https://github.com/mbella821/Convolutive-BSS-Speech-Separation)
-- Paper: "Underdetermined Convolutive Blind Source Separation of Speech Signals Using Relaxed Time-Frequency Sparsity"
+- Paper: "Underdetermined Convolutive Blind Source Separation of Speech Signals Using Relaxed Time–Frequency Sparsity and RTF‑Based Recombination"
 - Code + Sample Data + Documentation
 
   
@@ -172,7 +172,7 @@ A particular focus is on separating multiple sources when the number of observat
 [DOI](https://doi.org/10.1051/0004-6361/202557144)
 
 **Bella et al. (2026)**
-*Underdetermined Convolutive Blind Source Separation of Speech Signals Using Relaxed Time-Frequency Sparsity*
+*Underdetermined Convolutive Blind Source Separation of Speech Signals Using Relaxed Time–Frequency Sparsity and RTF‑Based Recombination*
 **Computer Speech & Language**, 101, 101992
 [DOI](https://doi.org/10.1016/j.csl.2026.101992)
 
