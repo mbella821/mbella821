@@ -3,7 +3,7 @@
 ### Signal Processing Researcher | PhD in Signal Processing & AI
 
 📍 Toulouse, France · 🔬 IRAP / Université de Toulouse
-📧 [mbella@irap.omp.eu](mailto:mostafabella94@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/mostafa-bella-2667a619/)
+📧 [Mail](mailto:mostafabella94@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/mostafa-bella-2667a619/)
 
 I am a **Signal Processing Researcher and Research Engineer** working at the intersection of **Signal and image processing, artificial intelligence, inverse problems, and Source Separation**.
 
