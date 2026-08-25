@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dr. Mostafa BELLA
+# Dr. Mostafa BELLA
 
 ### Signal Processing Researcher | PhD in Signal Processing & AI
 
